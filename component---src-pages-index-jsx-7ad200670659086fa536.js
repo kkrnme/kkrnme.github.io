@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{190:function(n,e,t){"use strict";t.r(e);var c=t(12),o=(t(0),function(n){var e=n.children;return Object(c.b)("div",null,Object(c.b)(c.a,{styles:{body:{backgroundColor:"#202020",color:"#ddd",fontSize:"4vw",textAlign:"center"},h1:{color:"#fafafa"}}}),e)});e.default=function(){return Object(c.b)(o,null,Object(c.b)("h1",null,"UNDER CONSTRUCTION"),Object(c.b)("p",null,"kkrn.me"))}}}]);
-//# sourceMappingURL=component---src-pages-index-jsx-7ad200670659086fa536.js.map
