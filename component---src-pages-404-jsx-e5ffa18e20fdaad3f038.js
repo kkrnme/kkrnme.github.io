@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{pssB:function(t,n,e){"use strict";e.r(n);var i=e("iYmT"),c=(e("q1tI"),e("qKvR"));n.default=function(){return Object(c.b)("h1",{css:Object(i.a)({fontSize:"750%",textAlign:"center",fontFamily:"serif",margin:0})},Object(c.b)("a",{href:"/"},"404 Not Found"))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-e5ffa18e20fdaad3f038.js.map
