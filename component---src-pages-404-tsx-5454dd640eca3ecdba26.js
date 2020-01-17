@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"i6+/":function(t,e,c){"use strict";c.r(e);c("q1tI");var n=c("Wbzz"),s=c("qKvR");e.default=function(){return Object(s.c)("div",{className:"bg-gray-900 w-full h-screen absolute text-yellow-300 text-center text-base font-serif"},Object(s.c)("h1",{className:"text-400  "},"404 Not Found"),Object(s.c)("p",null,"ページが見当たらなかった。"),Object(s.c)("p",null,Object(s.c)(n.Link,{to:"/"},"トップに戻る")))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-7d04786763e00d8be7e8.js.map
+//# sourceMappingURL=component---src-pages-404-tsx-5454dd640eca3ecdba26.js.map
